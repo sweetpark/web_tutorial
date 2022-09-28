@@ -2,3 +2,7 @@ https://wikidocs.net/book/4223
 
 
 web 튜토리얼 : https://lucky516.tistory.com/52
+
+admin page
+ID : damin
+PW : admin
